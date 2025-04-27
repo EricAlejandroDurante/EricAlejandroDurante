@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi, My name is Eric Alejandro Durante 👋
+
+I am a passionate developer deeply immersed in the world of Django and cybersecurity.
+
+Currently, I manage two websites:
+
+- [lifyxapp.com](https://lifyxapp.com)
+- [cruza.lifyxapp.com](https://cruza.lifyxapp.com)
+
+If you'd like to hear more about how I developed these projects or see the code, feel free to email me at eric.alejandro.durante@gmail.com or send me a message on my LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/eric-alejandro-durante-971a77233/).
+
+
 
 <!--
 **EricAlejandroDurante/EricAlejandroDurante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
