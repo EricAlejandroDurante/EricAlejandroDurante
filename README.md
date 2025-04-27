@@ -4,8 +4,8 @@ I am a passionate developer deeply immersed in the world of Django and cybersecu
 
 Currently, I manage two websites:
 
-- [lifyxapp.com](https://lifyxapp.com)
-- [cruza.lifyxapp.com](https://cruza.lifyxapp.com)
+- [lifyxapp.com](https://lifyxapp.com) - An application to convert XML files to PDF files.
+- [cruza.lifyxapp.com](https://cruza.lifyxapp.com) - An application to adopt pets.
 
 If you'd like to hear more about how I developed these projects or see the code, feel free to email me at eric.alejandro.durante@gmail.com or send me a message on my LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/eric-alejandro-durante-971a77233/).
 
