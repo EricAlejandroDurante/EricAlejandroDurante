@@ -1,6 +1,6 @@
 ## Hi, My name is Eric Alejandro Durante 👋
 
-I am a passionate developer deeply immersed in the world of Django and cybersecurity.
+I am a passionate developer deeply immersed in the world of Django, RubyonRails and cybersecurity.
 
 If you'd like to hear more about how I developed these projects or see the code, feel free to email me at eric.alejandro.durante@gmail.com or send me a message on my LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/eric-alejandro-durante-971a77233/).
 
