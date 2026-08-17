@@ -1,8 +1,10 @@
-## Hi, I'm Eric Alejandro Durante 👋
+## Hi, my name is Eric Alejandro Durante 👋
 
-I build **[Cruza](https://www.cruza.pet/)** — a pet adoption platform made in Chile that helps pets find a home, and helps people find their next best friend.
+I am a passionate developer deeply immersed in the world of Django, Ruby on Rails and cybersecurity. I like owning the whole journey of what I build: from the first idea to the server it runs on, everything I ship is designed, deployed and maintained by me.
 
-### 🐾 What Cruza does
+### 🐾 Cruza — my personal project
+
+**[Cruza](https://www.cruza.pet/)** is a pet adoption platform made in Chile that helps pets find a home, and helps people find their next best friend.
 
 **Find a pet near you.** Cruza shows animals up for adoption close to where you are — someone in Santiago sees Santiago's pets first — and widens the search on its own when there's nothing nearby, so there is always a friend to meet.
 
@@ -20,4 +22,4 @@ I build **[Cruza](https://www.cruza.pet/)** — a pet adoption platform made in 
 
 ### 📫 Contact
 
-eric.alejandro.durante@gmail.com · [LinkedIn](https://www.linkedin.com/in/eric-alejandro-durante-971a77233/)
+If you'd like to hear more about Cruza or about how I work, write me at eric.alejandro.durante@gmail.com or reach out on [LinkedIn](https://www.linkedin.com/in/eric-alejandro-durante-971a77233/).
