@@ -6,7 +6,7 @@ I am a passionate developer deeply immersed in the world of Django, Ruby on Rail
 
 **[Cruza](https://www.cruza.pet/)** is a pet adoption platform made in Chile that helps pets find a home, and helps people find their next best friend.
 
-**Find a pet near you.** Cruza shows animals up for adoption close to where you are — someone in Santiago sees Santiago's pets first — and widens the search on its own when there's nothing nearby, so there is always a friend to meet.
+**Find a pet near you.** Cruza shows animals up for adoption close to where you are, and widens the search on its own when there's nothing nearby, so there is always a friend to meet.
 
 **From "hello" to home, in one place.** Browse pets, ask questions over built-in real-time chat, send an adoption request telling your story, and let the owner review and approve it. The entire adoption journey happens inside Cruza, on the web and on the mobile app.
 
